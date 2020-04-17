@@ -1,2 +1,3 @@
-# ReactJS
-Personal Web Site
+# Tic-Tac-Toe Game
+## An introduction to React JS
+### Simple game in Progres....
